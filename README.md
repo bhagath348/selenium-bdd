@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-I click on Submit buttonI click on Submit buttontestng.xmlIntroduction:
-
-=======
->>>>>>> 06b9525 (first commit)
 This framework is designed using selenium webdriver and cucumber with Extent Reports
 
 Pre-requisites:
